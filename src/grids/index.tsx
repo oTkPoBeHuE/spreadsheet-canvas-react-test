@@ -21,7 +21,7 @@ export const GRID_IMPLEMENTATIONS: GridImplementation[] = [
     id: 'univer',
     label: 'Univer Sheets',
     description:
-      'Spreadsheet‑движок Univer: полноценный UX, формулы и редактирование в одном компоненте.',
+      'Spreadsheet‑движок Univer: формулы и редактирование .',
     status: 'ready',
     component: UniverGridAdapter,
   },
@@ -29,7 +29,7 @@ export const GRID_IMPLEMENTATIONS: GridImplementation[] = [
     id: 'spreadjs',
     label: 'SpreadJS React Wrapper',
     description:
-      'Commercial canvas renderer with 400+ Excel functions and native spreadsheet UX.',
+      '',
     status: 'ready',
     component: SpreadJsGridAdapter,
   },

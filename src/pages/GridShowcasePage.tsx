@@ -56,11 +56,6 @@ export const GridShowcasePage = () => {
           Multi-grid PoC
         </p>
         <h1 className="text-4xl font-bold text-slate-900">Canvas spreadsheet adapters</h1>
-        <p className="max-w-3xl text-base text-slate-600">
-          Toggle between spreadsheet engines while the shared data contract keeps pagination,
-          formulas, and styling in sync. Each grid consumes the same adapter API and exposes
-          inline editing, tree rows, and color highlighting.
-        </p>
       </header>
 
       <div className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
